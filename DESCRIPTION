@@ -1,0 +1,18 @@
+Package: AutoBS
+Type: Package
+Title: Recommending best hybrid parents in breeding.
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Jinlong", "Li",
+      email = "734316892@qq.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package is used for recommending hybrid parents in breeding. It is particularly suitable for conducting large-scale simulated hybridization with heterozygous parents and selecting the best parents.
+License: GPL-3
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2025-06-18 06:08:03 UTC; Administrator
+Author: Jinlong Li [aut, cre]
+Maintainer: Jinlong Li <734316892@qq.com>
